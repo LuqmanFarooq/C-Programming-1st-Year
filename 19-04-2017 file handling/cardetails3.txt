@@ -1,0 +1,6 @@
+make of car is :suzuki
+model of is :swift
+year of purchase of car is :2012
+registration number of car is :led6689
+colour of car is :white
+
